@@ -38,7 +38,7 @@ JavaScript
 Installation and Setup
 
 Clone the repository or download the source code.
-Install the required Python packages by running pip install -r requirements.txt (if a requirements.txt file is provided).
+Install the required Python packages by running pip install -r requirements.txt.
 Configure the Django project settings as per your environment.
 Run the Django development server using python manage.py runserver.
 Access the application in your web browser at the provided URL (e.g., http://localhost:8000).
